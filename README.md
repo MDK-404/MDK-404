@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chuzairnisar425&label=Profile%20views&color=0e75b6&style=flat" alt="chuzairnisar425" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chuzairnisar425" alt="chuzairnisar425" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdk-404" alt="mdk-404" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/chuzair542" target="blank"><img src="https://img.shields.io/twitter/follow/chuzair542?logo=twitter&style=for-the-badge" alt="chuzair542" /></a> </p>
+<p align="left"> <a href="https://twitter.com/MdKhan_404" target="blank"><img src="https://img.shields.io/twitter/follow/MdKhan_404?logo=twitter&style=for-the-badge" alt="mdk-404" /></a> </p>
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/mdk-404](https://github.com/mdk-404
